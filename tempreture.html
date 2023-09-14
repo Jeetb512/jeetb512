@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Converter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .input-container {
+            margin: 20px 0;
+        }
+
+        input {
+            padding: 10px;
+            font-size: 16px;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #333;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #555;
+        }
+
+        .result-container {
+            margin-top: 20px;
+        }
+
+        p {
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Temperature Converter</h1>
+        <div class="input-container">
+            <input type="number" id="celsiusInput" placeholder="Enter Celsius temperature">
+            <button onclick="convertToFar()">Convert to Fahrenheit</button>
+        </div>
+        <div class="result-container">
+            <p id="result"></p>
+        </div>
+    </div>
+
+    <script>
+        function convertToFar() {
+            const celsiusInput = document.getElementById("celsiusInput").value;
+            const result = (celsiusInput * 9/5) + 32;
+            document.getElementById("result").textContent = `${celsiusInput}°C is ${result.toFixed(2)}°F`;
+        }
+    </script>
+</body>
+</html>
