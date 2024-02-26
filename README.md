@@ -1,29 +1,146 @@
-<h1 align="center">Hi 👋, I'm Jeet Biswas</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetb512&label=Profile%20views&color=0e75b6&style=flat" alt="jeetb512" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **biswasjeet512@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jeet biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeet biswas" height="30" width="40" /></a>
-<a href="https://fb.com/jeet biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeet biswas" height="30" width="40" /></a>
-<a href="https://instagram.com/jeetbiswas769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeetbiswas769" height="30" width="40" /></a>
+<!-- Header Section with Profile Picture and Introduction -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="coding">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<h1 align="center">Hello, World! 👋 I'm Jeet Biswas</h1>
+<h3 align="center">🚀 Passionate Software Engineer | 🌏 Explorer of the Digital Realm | 💻 Creator of Virtual Realities</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeetb512&show_icons=true&locale=en&layout=compact" alt="jeetb512" /></p>
+<!-- Profile Views and GitHub Followers -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-9999-brightgreen" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/jeetb512?label=Follow&style=social" alt="GitHub Followers">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeetb512&show_icons=true&locale=en" alt="jeetb512" /></p>
+<!-- GitHub Stats Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeetb512&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeetb512&" alt="jeetb512" /></p>
+<!-- Languages and Tools Section -->
+<h3 align="center">🛠️ Languages and Tools 🛠️</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+<!-- Connect with Me Section -->
+<h3 align="center">💬 Connect with Me 💬</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/jeet-biswas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://fb.com/jeetbiswas" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://instagram.com/jeetbiswas769" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
+
+<!-- Additional Contact Section -->
+<p align="center">
+  <a href="mailto:biswasjeet512@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/jeetb512" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://dev.to/jeetb512" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Dev.to">
+  </a>
+</p>
+
+<!-- About Me Section -->
+<h3 align="center">👨‍💻 About Me 👨‍💻</h3>
+<p align="center">
+  Welcome to my Cyber Space! 🌌 I am a code wizard traversing the digital realms, crafting virtual realities and unraveling the mysteries of software sorcery.
+</p>
+
+<p align="center">
+  When I'm not conjuring up magical code spells, you'll find me exploring the depths of machine learning, hacking together innovative solutions, or diving into the latest tech trends.
+</p>
+
+<p align="center">
+  Feel free to delve into my mystical repositories, and reach out if you seek knowledge, collaboration, or just a chat about the wonders of the digital universe!
+</p>
+
+<!-- YouTube Video Embed Section -->
+<h3 align="center">📺 Latest YouTube Video 📺</h3>
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<!-- GitHub Code Section -->
+<h3 align="center">🛠️ Featured GitHub Project 🛠️</h3>
+<p align="center">
+  <a href="https://github.com/jeetb512/your_repo_name" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeetb512&repo=your_repo_name&theme=radical" alt="Featured Project">
+  </a>
+</p>
+
+<!-- GitHub Analytics Section -->
+<h3 align="center">📊 GitHub Analytics 📊</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeetb512&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetb512&theme=radical" alt="GitHub Streak">
+</p>
+
+<!-- Game-themed Badges Section -->
+<h3 align="center">🎮 Game-themed Badges 🎮</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Level-42-brightgreen" alt="Level">
+  <img src="https://img.shields.io/badge/XP-9999-blue" alt="XP">
+  <img src="https://img.shields.io/badge/Gold-9000-yellow" alt="Gold">
+</p>
+
+<!-- Hacking-style Elements Section -->
+<h3 align="center">🔒 Hacking-style Elements 🔒</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Black%20Hat-Hacker-red" alt="Black Hat">
+  <img src="https://img.shields.io/badge/Snake%20Oil%20Salesman-007EC6" alt="Snake Oil">
+  <img src="https://img.shields.io/badge/Security%20Consultant-22a7f0" alt="Security Consultant">
+</p>
+
+<!-- Nintendo Switch Section -->
+<h3 align="center">🎮 Nintendo Switch Collection 🎮</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/The%20Legend%20of%20Zelda%3A%20Breath%20of%20the%20Wild-RED" alt="Zelda Breath of the Wild">
+  <img src="https://img.shields.io/badge/Super%20Mario%20Odyssey-RED" alt="Super Mario Odyssey">
+  <img src="https://img.shields.io/badge/Splatoon%202-RED" alt="Splatoon 2">
+  <img src="https://img.shields.io/badge/Mario%20Kart%208%20Deluxe-RED" alt="Mario Kart 8 Deluxe">
+  <img src="https://img.shields.io/badge/Animal%20Crossing%3A%20New%20Horizons-RED" alt="Animal Crossing New Horizons">
+</p>
+
+<!-- Notepad-style Button Section -->
+<p align="center">
+  <a href="https://github.com/jeetb512" target="_blank" style="background-color: #333; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-size: 16px; font-weight: bold;">
+    📝 Open My Notepad
+  </a>
+</p>
+
+<!-- Fun Fact Section -->
+<h3 align="center">⚡ Fun Fact ⚡</h3>
+<p align="center">
+  Did you know? I once hacked into the mainframe of a spaceship... in my dreams! 🚀✨
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Space Hack">
+</p>
+
+<!-- Closing Section -->
+<h3 align="center">🚀 Here's to coding adventures and beyond! 🚀</h3>
